@@ -1,6 +1,8 @@
 " Vim global plugin for removing trailing whitespace
 
-" Code adapted from: https://vim.fandom.com/wiki/Remove_unwanted_spaces
+" Code adapted from:
+"   https://vim.fandom.com/wiki/Remove_unwanted_spaces
+"   http://vimcasts.org/episodes/tidying-whitespace/
 
 if exists("g:loaded_trim")
     finish
